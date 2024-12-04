@@ -3,16 +3,16 @@
 Hello! I'm Lala A Kallo, an aspiring AWS Cloud Engineer and student passionate about cloud computing. I’m currently building a portfolio of cloud infrastructure automation, DevOps, and AWS-related projects to showcase my skills and experience.
 
 ## Skills
-- AWS Services: EC2, S3, CloudFormation, RDS, IAM, CloudFront, CloudWatch.
-- Automation: CloudFormation, Ansible, Docker.
-- Devops Tools: Jenkins, AWS CodePipeline, Git, Kubernetes.
+- AWS Services: EC2, S3, RDS, IAM, CloudFront, CloudWatch, Route 53, Auto scaling, Load balancer.
+- Automation: CloudFormation, Ansible.
+- Devops Tools: Jenkins, AWS CodePipeline, Git.
+- Containerization: Docker, Kubernetes (EKS).
 - Programming Languages: YAML
 
 
 ## Connect with Me
-- GitHub: [github.com/lalacloudspace](https://github.com/lalacloudspace)
-
-
+GitHub: github.com/lalacloudspace
+LinkedIn: linkedin.com/in/lalaakallo11
 Feel free to browse my repositories and check out my AWS projects. If you have any questions or want to collaborate, don't hesitate to reach out!
 
 <!---

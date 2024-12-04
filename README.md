@@ -11,8 +11,9 @@ Hello! I'm Lala A Kallo, an aspiring AWS Cloud Engineer and student passionate a
 
 
 ## Connect with Me
-GitHub: github.com/lalacloudspace
-LinkedIn: linkedin.com/in/lalaakallo11
+GitHub: [github.com/lalacloudspace](https://github.com/lalacloudspace)
+LinkedIn: [linkedin.com/in/lalaakallo11](https://www.linkedin.com/in/lalaakallo11)
+
 Feel free to browse my repositories and check out my AWS projects. If you have any questions or want to collaborate, don't hesitate to reach out!
 
 <!---

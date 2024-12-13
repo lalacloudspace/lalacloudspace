@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I'm Lala A Kallo, an aspiring AWS Cloud Engineer and student passionate about cloud computing. I’m currently building a portfolio of cloud infrastructure automation, DevOps, and AWS-related projects to showcase my skills and experience.
+Hello! I'm Lala A Kallo, an AWS Cloud Engineer and student passionate about cloud computing. I’m currently building a portfolio of cloud infrastructure automation, DevOps, and AWS-related projects to showcase my skills and experience.
 
 ## Skills
 - AWS Services: EC2, S3, RDS, IAM, CloudFront, CloudWatch, Route 53, Auto scaling, Load balancer.

@@ -1,11 +1,9 @@
 # 💻 Welcome to My GitHub Profile! 🌟  
-### I'm Lala A kallo | AWS Cloud Engineer | Solutions Architect | DevOps Engineer  
+### | AWS Cloud Engineer | Solutions Architect | DevOps Engineer  
 
----
+--- 
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile) <!-- Replace with your own banner image -->
-
-## 🌟 About Me  
+## 🌟 Lala A kallo 
 🔹 **AWS Certified Cloud Engineer** passionate about designing secure, scalable, and cost-effective cloud architectures.  
 🔹 **DevOps Enthusiast** skilled in automating CI/CD pipelines and container orchestration.  
 🔹 **Problem Solver** with hands-on experience in Linux, Docker, Kubernetes (AWS EKS), Jenkins, and Ansible.  
@@ -25,26 +23,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)  
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
-
----
-
-## 🌟 Featured Projects  
-
-### **1️⃣ 3-Tier Architecture Dynamic Website**  
-- Designed a **secure, scalable architecture** using **AWS services** like S3, CloudFront, ACM, and Route 53.  
-- Automated deployment with **CloudFormation**, **Ansible**, and **CodePipeline**.  
-- Reduced costs by 40% while ensuring high availability and performance.  
-[![GitHub Repo](https://img.shields.io/badge/View-Repository-blue?style=flat&logo=github)](https://github.com/lalacloudspace/3-tier-architecture)  
-
-### **2️⃣ Jenkins CI/CD Pipeline**  
-- Configured Jenkins server on **AWS EC2** and secured it with SSL.  
-- Built and published an **Apache image** to DockerHub using an automated Jenkins pipeline.  
-[![GitHub Repo](https://img.shields.io/badge/View-Repository-blue?style=flat&logo=github)](https://github.com/lalacloudspace/jenkins-project)  
-
-### **3️⃣ Image Labels Generator**  
-- Used **Amazon Rekognition** to label images uploaded to an S3 bucket.  
-- Configured the **AWS CLI** for seamless processing.  
-[![GitHub Repo](https://img.shields.io/badge/View-Repository-blue?style=flat&logo=github)](https://github.com/lalacloudspace/image-labels-generator)  
 
 ---
 

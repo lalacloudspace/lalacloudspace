@@ -42,6 +42,5 @@
 ## ✨ Fun Fact  
 _"Cloud engineering is like playing with LEGOs: I design, build, and automate one block at a time to create something amazing!"_
 
-![Profile Footer](https://via.placeholder.com/1200x200.png?text=Thank+You+for+Visiting!) <!-- Replace with your custom footer image -->
 
 

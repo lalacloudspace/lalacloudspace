@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there! 👋
 ### <br><br>Hello! I'm Lala A Kallo, an AWS-certified Cloud Engineer and DevOps enthusiasm  passionate about cloud computing and DevOps practices. I’m currently building a portfolio of cloud infrastructure automation, DevOps, and AWS-related projects to showcase my skills and experience.<br>
 
 
